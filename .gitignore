@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Core/Corn/bin
+/Core/Corn/obj
+/Test/Renegade/bin
+/Test/Renegade/obj
+/packages
+*.user
+*.suo
+*.dbmdl
